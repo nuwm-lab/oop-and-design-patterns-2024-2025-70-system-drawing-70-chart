@@ -13,4 +13,4 @@ namespace GraphApp
             Application.Run(new Form1()); // Запускаємо форму Form1
         }
     }
-}
+} 
